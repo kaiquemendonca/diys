@@ -1,0 +1,366 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    width: 100%;
+    background: #ffffff;
+    height: 80px;
+    
+}
+
+.headerin{
+    width: 1700px;
+    height: 80px;
+    margin: auto;
+}
+
+
+.logomarca{
+    float: left;
+    width: 20px;
+    height: 10px;
+    
+}
+
+.logomarca img{
+    width: 91px;
+    height: 30px;
+    position: absolute;
+    top: 25
+    
+}
+
+.login{
+    float: right;
+}
+
+.login a{
+    font-size: 18px;
+    line-height: 80px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+nav{
+    background: #B48B6C;
+    height: 417px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.es{
+    float: left;
+    width:  600px;
+    height: 417px;
+    
+}
+
+.di{
+    float: left;
+    width:  602px;
+    height: 417px;
+    
+}
+
+.di img{
+    width: 250px;
+    padding-left: 340px;
+padding-top: 155
+    
+}
+
+.es img{
+    width: 250px;
+    padding: 20px;
+    
+}
+
+
+.dentro{
+    width: 700px;
+    height: 417px;
+    float: left;
+}
+
+
+.search{ 
+    text-align: center;
+    height: 180px;
+    line-height: 90px;
+    padding-top: 90px;
+}
+
+.search h1{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    font-size: 36px;
+    
+}
+
+form{
+    width: 100%;
+    height: 40px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+input{
+    width: 80%;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.buttonpes{
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+
+
+
+footer{
+    background-color: #1f1f1f;
+    height: 535px;
+    padding-top: 60px;
+}
+
+.footertop{
+    width: 1700px;
+    margin: auto;
+
+}
+
+.footertopleft{
+    float: left;
+    width: 882px;
+    height: 192px;
+}
+.footertopright{
+    float: left;
+    width: 400px;
+    height: 192px;
+}
+
+.about{
+
+    padding-bottom: 15px;
+    font-weight: bold;
+    
+}
+
+.footertopright a{
+   width: 100%;
+    color: #ffffff;
+    float: left;
+    line-height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: sans-serif;
+    
+}
+
+.footertopright a:hover{
+    text-decoration: underline;
+}
+
+
+
+.logomarca2{
+    height: 150px;
+}
+
+.f3{
+    width: 135px;
+    height: 40px; 
+}
+
+.cf{
+     width: 135px;
+    height: 40px; 
+    margin-right: 12px;
+}
+
+
+
+
+
+@media only screen and (max-width:500px){
+    
+    header{
+        height: 70.8px;
+    }
+    
+    .headerin{
+        width: 84%;
+        height: 70.8px; 
+    } 
+    
+    .logomarca{
+        width: 17.7px;
+        height: 8.85px;
+    }
+    
+    .logomarca img{
+        width: 80.57px;
+        height: 26.56px;
+        
+    }
+    
+    .login a{
+        font-size: 16px;
+        line-height: 70.8px;
+    }
+    
+    nav{
+        height: 108.59px;
+        width: 100%;   
+    }
+    
+    .es{
+        width: 20%;
+        height: 108.59px;
+    }
+    
+    .di{
+        width: 20%;
+        height: 108.59px;
+    }
+    
+    .es img{
+        width: 50%;
+        padding: 10%;
+    }
+    
+    .di img{
+        width: 50%;
+        padding-left:40%;
+        padding-top: 50%;
+        
+    }
+    
+    .dentro{
+        width: 60%;
+        height: 108.59px;
+        align-items: center;
+    }
+    
+    .search{
+        height: 46.87px;
+        line-height: 150%;
+        padding-top: 10%;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .search h1{
+        font-size: 80%;
+    }
+
+    
+    
+    form{
+        width: 100%;
+        height: 20.41px;
+        margin: auto;
+    }
+    
+    input{
+        width: 70%;
+        height: 15.41px;
+        font-weight: 100;
+        font-size: 10px;
+    }
+    .buttonpes{
+        width: 20%;
+        height: 15.41px;
+        font-size: 10px;
+        align-items: center;
+    }
+    
+    
+    footer{
+    height: 405px;
+    padding-top: 30px;
+    }
+
+    .footertop{
+    width: 84%;
+    margin: auto;
+
+    }
+
+    .footertopleft{
+    float: left;
+    width: 100%;
+    height: 52px;
+    }
+    .footertopright{
+    margin-top: 2%;
+    float: left;
+    width: 100%;
+    height: 40%;
+    }
+
+    .about{
+
+    padding-bottom: 15px;
+    
+    
+    }
+
+    .footertopright a{
+    width: 60%;
+    color: #ffffff;
+    float: left;
+    line-height: 40px;
+    font-size: 70%;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: sans-serif;
+    
+    }
+
+    .footertopright a:hover{
+    text-decoration: underline;
+    }
+
+
+
+    .logomarca2{
+    height: 50px;
+    width: 40%;
+    float: left;
+    }
+    
+    .logomarca2 img{
+        width: 80.57px;
+        height: 26.56px;
+    }
+    
+    
+
+    .f3{
+
+    width: 25%;
+        height: 26.56px;
+    }
+
+    .cf{
+     width: 25%;
+        height: 26.56px;; 
+    margin-right: 1%;
+    }
+
+    
+}
+
+
