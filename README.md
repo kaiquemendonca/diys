@@ -1,1 +1,1 @@
-Iae galera
+Por favor, leia com atenção!
