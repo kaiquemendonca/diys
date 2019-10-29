@@ -4,14 +4,14 @@ body{
 }
 
 header{
-    width: 100%;
+    width: 1920px;
     background: #ffffff;
     height: 80px;
     
 }
 
 .headerin{
-    width: 1700px;
+    width: 80%;
     height: 80px;
     margin: auto;
 }
@@ -175,7 +175,8 @@ footer{
 
 
 .logomarca2{
-    height: 150px;
+    width: 20px;
+    height: 10px;
 }
 
 .f3{

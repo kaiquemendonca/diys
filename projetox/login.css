@@ -1,0 +1,72 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.loginin{
+    display: flex;
+    align-items: center;
+    height: 1000px;
+    width: 500px;
+    flex-direction: column;
+}
+
+.logologin{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formlogin{
+    width: 100%;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.formlogin h3{
+    font-weight: 100;
+    color: gray;
+}
+
+.formlogin input{
+        width: 100%;
+        margin-bottom: 20px;
+        height: 45px;
+        padding: 10px;
+}
+
+.buttonlogin{
+    background-color: #E0E0E0;
+    border-color: #E0E0E0;
+    pointer-events: none;
+    cursor: default;
+    border: none;
+    color: white    ;
+}
+
+.criarconta{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    font-size: 18px;
+}
+
+.criarconta a{
+    text-decoration: none;
+    color:  #08505a;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.criarconta a:hover{
+    
+    text-decoration: underline;
+    text-decoration-color: #08505a;
+    
+}
+

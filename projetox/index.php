@@ -1,12 +1,10 @@
 <html>
     <head>
-    <meta  charset="UTF-8">
-    <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no">
-    <title>DIYS - NUNCA FOI TÃO FÁCIL SER BONITO</title>
-    <link type="text/css" href="padrao.css" rel="stylesheet" />
-    <link rel="stylesheet" type="text/css" href="normalize.css-master/normalize.css" />
-    
-    
+        <meta  charset="UTF-8">
+        <meta id="viewport" name="viewport" content="width=device-width, user-scalable=no">
+        <title>DIYS - NUNCA FOI TÃO FÁCIL SER BONITO</title>
+        <link type="text/css" href="padrao.css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="normalize.css-master/normalize.css" />
     </head>
     <body>
         <header>
@@ -17,7 +15,7 @@
                 </div>
                 
                 <div class="login">
-                    <a href="">Entrar</a>
+                    <a href="login.html">Entrar</a>
                 </div>
             </div>
         </header>
@@ -46,7 +44,7 @@
              </div>
         </nav>
         <div class="titulo">
-            <h2>Espaços de beleza e estética em Maceió</h2>
+            <h1>Espaços de beleza e estética em Maceió</h1>
         </div>
         <section>
         
@@ -57,6 +55,11 @@
                                 <a href=""><img src="barbuto.jpg"/></a>
                             </div>                          
                             <h3>Barbuto Barbearia</h3>
+                            <div class="descricaonota">
+                                <div class="nota">5.0</div>
+                                <div class="imgestrela"><img src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/92367108b11b8ee48b6f29cb3fef2d4d.svg"></div>
+                                <div class="quantidadenotas">(500+)</div>
+                            </div>
                         </div>
                             
                         <div class="cont2">
@@ -64,12 +67,22 @@
                                 <a href=""><img src="espacobeleza.jpg"/></a>
                             </div>                          
                             <h3>Espaço de Beleza</h3>
+                            <div class="descricaonota">
+                                <div class="nota">4.7</div>
+                                <div class="imgestrela"><img src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/92367108b11b8ee48b6f29cb3fef2d4d.svg"></div>
+                                <div class="quantidadenotas">(500+)</div>
+                            </div>
                         </div>
                         <div class="cont">
                             <div class="imgbarbuto">
                                 <a href=""><img src="fiosdeouro.jpg"/></a>
                             </div>                          
                             <h3>Fios de Ouro</h3>
+                            <div class="descricaonota">
+                                <div class="nota">3.6</div>
+                                <div class="imgestrela"><img src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/92367108b11b8ee48b6f29cb3fef2d4d.svg"></div>
+                                <div class="quantidadenotas">(500+)</div>
+                            </div>
                         </div>      
                     </div>
                     <div class="sec1">
@@ -78,6 +91,11 @@
                                 <a href=""><img src="leticiapalma.jpg"/></a>
                             </div>                          
                             <h3>Letícia Palma</h3>
+                            <div class="descricaonota">
+                                <div class="nota">4.5</div>
+                                <div class="imgestrela"><img src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/92367108b11b8ee48b6f29cb3fef2d4d.svg"></div>
+                                <div class="quantidadenotas">(500+)</div>
+                            </div>
                         </div>
                             
                         <div class="cont2">
@@ -85,12 +103,22 @@
                                 <a href=""><img src="mancini.jpg"/></a>
                             </div>                          
                             <h3>Mancini Studio Hair</h3>
+                            <div class="descricaonota">
+                                <div class="nota">4.3</div>
+                                <div class="imgestrela"><img src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/92367108b11b8ee48b6f29cb3fef2d4d.svg"></div>
+                                <div class="quantidadenotas">(500+)</div>
+                            </div>
                         </div>
                         <div class="cont">
                             <div class="imgbarbuto">
                                 <a href=""><img src="cinderela.jpg"/></a>
                             </div>                          
                             <h3>Cinderela</h3>
+                            <div class="descricaonota">
+                                <div class="nota">4.9</div>
+                                <div class="imgestrela"><img src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/92367108b11b8ee48b6f29cb3fef2d4d.svg"></div>
+                                <div class="quantidadenotas">(500+)</div>
+                            </div>
                         </div> 
                     </div>      
                 </div>
